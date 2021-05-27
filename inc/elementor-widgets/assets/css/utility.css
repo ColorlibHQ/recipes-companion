@@ -1,0 +1,39 @@
+/* -------------------------
+:: utility Class
+---------------------------- */
+.recipes-pt-100 {
+    padding-top: 100px;
+}
+.recipes-pt-80 {
+    padding-top: 80px;
+}
+.recipes-pt-70 {
+    padding-top: 70px;
+}
+.recipes-pt-60 {
+    padding-top: 60px;
+}
+.recipes-pt-50 {
+    padding-top: 50px;
+}
+.recipes-pt-30 {
+    padding-top: 30px;
+}
+.recipes-pb-100 {
+    padding-bottom: 100px;
+}
+.recipes-pb-80 {
+    padding-bottom: 80px;
+}
+.recipes-pb-70 {
+    padding-bottom: 70px;
+}
+.recipes-pb-60 {
+    padding-bottom: 60px;
+}
+.recipes-pb-50 {
+    padding-bottom: 50px;
+}
+.recipes-pb-30 {
+    padding-bottom: 30px;
+}
